@@ -1,0 +1,11 @@
+{
+    "name": "wanpinghui/alipay",
+    "description": "wanpinghui, alipay",
+    "license": "MIT",
+    "require": {
+        "php": "^5.3.3"
+    },
+    "autoload": {
+        "files": ["AopSdk.php"]
+    }
+}
