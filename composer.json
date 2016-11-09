@@ -1,6 +1,6 @@
 {
-    "name": "wanpinghui/alipay",
-    "description": "wanpinghui, alipay",
+    "name": "wanpinghui/alipay_wap",
+    "description": "wanpinghui, alipay_wap",
     "license": "MIT",
     "require": {
         "php": "^5.3.3"
